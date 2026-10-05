@@ -1,0 +1,8 @@
+{
+  "true_max_flow": 7,
+  "pred_max_flow": 10.679,
+  "abs_error": 3.679,
+  "rel_error": 0.5256,
+  "time_exact_sec": 3.8e-05,
+  "time_nn_sec": 0.010781
+}
