@@ -63,13 +63,4 @@ max_flow_project/
 ## 课程信息
 >课程设计题目：Разработка приложения для решения задачи о максимальном потоке с нейросетевым подходом
 >学生：Мэн Цзияо（蒙继尧）
-```
 
-### 配套 requirements.txt 内容，一并复制，网页新建文件命名 `requirements.txt`
-```txt
-networkx
-torch
-matplotlib
-pyqt5
-numpy
-```
